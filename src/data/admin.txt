@@ -1,0 +1,1 @@
+[{"acNumber":"121","password":"TFb/TOSq+Vc6pd/5E9+Zeg==","problem":"你喜欢什么动物？","secuity":"猫"},{"acNumber":"888","password":"ChE+9rYYINqlYRyHDtjV7g==","problem":"你看过什么电影？","secuity":"钢铁之躯"},{"acNumber":"111","password":"MQ3Lv0zOYvdioqqhSNVWvQ==","problem":"你喜欢哪个物理学家？","secuity":"爱因斯坦"},{"acNumber":"admin","password":"4QrcOUm6Wau+VuBX8g+IPg==","problem":"你喜欢做什么？","secuity":"跑步"}]
